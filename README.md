@@ -1,4 +1,4 @@
 LoopBackJs
 ==========
 
-Práctica sobre el framework LoopbackJs
+Práctica sobre el framework LoopBackJs
